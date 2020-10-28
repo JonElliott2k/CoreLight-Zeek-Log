@@ -6,5 +6,6 @@ A Zeek script that turns Zeek logs into JSON format so your SIEM can ingest them
 
 
 <br/> **It is 100% created and owned by Corelight** <br/>
-![Corelight Logo](https://corelight.com/_nuxt/img/assets/images/logo-corelight-b192e84.png)
+![Corelight Logo](https://corelight.com/_nuxt/img/assets/images/logo-corelight-b192e84.png) <br/><br/>
 
+The article I wrote that referenced this script... https://jonelliott.info/2020/08/10/from-zeek-to-humio/
